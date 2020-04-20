@@ -2,3 +2,5 @@
 
 aaaaa
 git status
+git diff
+
